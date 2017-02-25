@@ -2,4 +2,4 @@ hello
 e..h
 stage
 branch
-new branch master
+new branch fixed
